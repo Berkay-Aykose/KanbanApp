@@ -13,7 +13,7 @@ This project is a web-based project management application designed to facilitat
 
 ## Technologies Used
 - Backend: Go, Gin (for REST API)
-- Frontend: HTML, CSS, Bootstrap
+- Frontend: HTML, CSS, JavaScript, Bootstrap
 - Database: MySQL, GORM
 - Authentication: JWT-based authentication
 - Notifications: Real-time notifications and email integration (SMTP)
