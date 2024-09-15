@@ -1,0 +1,26 @@
+{
+  "debug": {
+    "public": "public",
+    "domain": "http://localhost:8000",
+    "session_secret": "c33e4f019088034757dec2963ceee1c2",
+    "database": {
+      "user": "VERİTABANI KULLANICI ADINIZI YAZINIZ",
+      "password": "VERİTABANI şİFRESİ",
+      "host": "localhost",
+      "name": "KULLANILACAK VERİTABANI ADI",
+      "port": "3306"
+    }
+  },
+  "release": {
+    "public": "",
+    "domain": "",
+    "session_secret": "",
+    "database": {
+      "user": "",
+      "password": "",
+      "host": "",
+      "name": "",
+      "port": ""
+    }
+  }
+}
